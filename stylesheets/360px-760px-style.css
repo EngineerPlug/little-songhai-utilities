@@ -1,0 +1,11 @@
+@media only screen and (min-width: 360px) and (min-height: 760px) {
+* {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+html {
+    overflow-y: hidden;
+}
+
+}
